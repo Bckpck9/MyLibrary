@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    background: #f5f5f5;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
